@@ -1,5 +1,2 @@
 gradio
 requests
-faiss-cpu
-openai
-tqdm
